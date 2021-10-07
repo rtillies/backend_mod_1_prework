@@ -1,3 +1,6 @@
+# Richard Tillies
+# October 7, 2021
+
 # In the below exercises, write code that achieves
 # the desired result. To check your work, run this
 # file by entering the following command in your terminal:
@@ -14,12 +17,11 @@ p "The #{team} are #{name}'s favorite Quidditch team"
 # "The quick red fox jumped over the lazy brown dog":
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
-
-p # YOUR CODE HERE
+p "The #{speedy} jumped over the #{slow_poke}"
 
 # Write code that uses the variables below to form a string that reads
 # "In a predictable result, the tortoise beat the hare!":
 slow_poke = "tortoise"
 speedy = "hare"
 
-# YOUR CODE HERE
+p "In a predictable result, the #{slow_poke} beat the #{speedy}!"

@@ -1,3 +1,6 @@
+# Richard Tillies
+# October 7, 2021
+
 # In the below exercises, write code that achieves
 # the desired result. To check your work, run this
 # file by entering the following command in your terminal:
@@ -7,10 +10,10 @@
 p 2 + 2
 
 # Write code that prints the result of 7 subtracted from 83:
-p #YOUR CODE HERE
+p 83 - 7
 
 # Write code that prints the result of 6 multiplied by 53:
-# YOUR CODE HERE
+p 6 * 53
 
 # Write code that prints the result of the modulo of 10 into 54:
-# YOUR CODE HERE
+p 54 % 10
